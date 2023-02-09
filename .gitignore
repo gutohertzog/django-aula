@@ -1,0 +1,4 @@
+# arquivos e pastas que serão ignorados pelo git
+
+.venv
+__pycache__
